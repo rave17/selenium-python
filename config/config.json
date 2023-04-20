@@ -1,0 +1,13 @@
+{
+  "urls": {
+    "login":"https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+  },
+  "webdrivers": {
+    "chrome_path": "C:\\Users\\rv4rg\\Ejemplos\\selenium-python\\drivers\\chromedriver.exe",
+    "firefox_path": "C:\\Users\\rv4rg\\Ejemplos\\selenium-python\\drivers\\geckodriver.exe",
+    "selenium": {
+      "implicitly_wait": 3
+    }
+  }
+}
+

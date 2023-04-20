@@ -1,0 +1,13 @@
+1- Estructurar proyecto
+2- Crear directorios
+    2.1- config - reports - src/base/pages - src/helpers -src/tests - src/tests/testCases - src/tests/testSuites - utils - webDriver
+3- Crear archivos
+4- Instalar dependencias: podemos hacerlo desde File | Settings | Project: WORKSHOP-PY-SELENIUM | Python Interpreter
+    4.1- Podemos utilizar el comando > pip freeze > requirements.txt (Esto genera un archivo con las dependencias utilizadas)
+5- Crear archivos de configuracion
+    config/conection.json - config/environment.json
+6- Crear conexiones a webdriver
+    6.1- src/helpers/ChomeWebDriverSetup.py
+7- Definir/crear paginas base
+8- Crear flujos de trabajo
+9- Integrar generacion de reportes
